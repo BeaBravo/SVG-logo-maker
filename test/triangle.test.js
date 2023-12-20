@@ -1,6 +1,5 @@
 //test for Triangle class
 const Triangle = require("../lib/triangle");
-const Shape = require("../lib/shape");
 
 describe("Triangle class", () => {
   describe("Initialization", () => {
@@ -13,7 +12,7 @@ describe("Triangle class", () => {
     it("should return the HTML as a string with the color in the fill style option", () => {
       const color = "blue";
       const triangle = new Triangle(color);
-      const result = `<polygon point="150, 18 244, 182 56, 182" fill="${color}" />`;
+      const result = `<polygon points="150,15 300,150 0,150" fill="${color}" />`;
       expect(triangle.render()).toBe(result);
     });
   });
