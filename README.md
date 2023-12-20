@@ -10,9 +10,11 @@ This repo was created to generate a simple logo from a command-line application.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo-video)
+- [Demo](#demo)
 - [Credits](#credits)
 - [License](#license)
+- [How to Contribute](#how-to-contribute)
+- [Tests](#tests)
 
 ## Installation
 
@@ -33,13 +35,19 @@ Initialize the command line application by:
 $ node index.js
 ```
 
-Answer the prompt as they are displayed. When selecting a text color or a shape color, make sure to input the keyword for the color or the hexadecimal code with '#' infront of it.
+Answer the prompt as they are displayed.
+
+Note: When selecting a text color or a shape color, make sure to input the keyword for the color or the hexadecimal code with '#' infront of it.
 
 <!-- ![screenrecording](./assets/images/Screenrecording.gif) -->
 
-## Demo Video
+## Demo
 
 Link to [Walkthrough-video](#)
+
+Example of a logo generated with this command-line application:
+
+![example](./assets/images/BON.png)
 
 ## Credits
 
