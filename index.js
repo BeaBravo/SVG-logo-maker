@@ -5,7 +5,7 @@ const fs = require("fs");
 
 const logoInput = new LogoInput();
 
-async function getData() {
+async function getLogo() {
   const acron = await logoInput.getAcronym();
   const textColor = await logoInput.getTextColor();
   const shape = await logoInput.getShape();
@@ -15,4 +15,4 @@ async function getData() {
   console.log(`Generated ${acron}.svg -> check it out in the examples folder`);
 }
 
-getData();
+getLogo();
