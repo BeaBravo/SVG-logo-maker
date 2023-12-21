@@ -43,7 +43,7 @@ Note: When selecting a text color or a shape color, make sure to input the keywo
 
 ## Demo
 
-Link to [Walkthrough-video](#https://drive.google.com/file/d/1y1y50L2LoOybJBOoHWuppv3qY0T731_6/view?usp=sharing)
+Link to [Walkthrough-video](https://drive.google.com/file/d/1y1y50L2LoOybJBOoHWuppv3qY0T731_6/view)
 
 Example of a logo generated with this command-line application:
 
