@@ -4,7 +4,7 @@
 
 ## Description
 
-This repo was created to generate a simple logo from a command-line application. The user will input the 3-character acronym, the text color, shape of the logo, and the fill color of this shape. A .svg file is created with the logo taking all the inputs in account
+This repo was created to generate a simple logo from a command-line application. The user will input the 3-character acronym, the text color, shape of the logo, and the fill color of this shape. A .svg file is created with the logo taking all the inputs in account. A demo video can be found in the [Demo](#demo) section
 
 ## Table of Contents
 
@@ -39,11 +39,11 @@ Answer the prompt as they are displayed.
 
 Note: When selecting a text color or a shape color, make sure to input the keyword for the color or the hexadecimal code with '#' infront of it.
 
-<!-- ![screenrecording](./assets/images/Screenrecording.gif) -->
+![screenrecording](./assets/images/ScreenRecording.gif)
 
 ## Demo
 
-Link to [Walkthrough-video](#)
+Link to [Walkthrough-video](#https://drive.google.com/file/d/1y1y50L2LoOybJBOoHWuppv3qY0T731_6/view?usp=sharing)
 
 Example of a logo generated with this command-line application:
 
